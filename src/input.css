@@ -1,0 +1,7 @@
+@import "tailwindcss";
+.bor {
+    width: 100px;
+    height: 400px;
+    border-bottom: green;
+    margin: 20px;
+}
